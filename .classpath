@@ -8,5 +8,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="lib/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/git/EN-Life-Planner/lib/evernote-api-1.25.1.jar" sourcepath="C:/git/evernote-sdk-java/src/main/java/com/evernote/thrift/protocol"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
